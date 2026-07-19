@@ -26,5 +26,6 @@ pnpm-debug.log*
 
 # Deployment/local files
 .vercel/
+.qa/
 .DS_Store
 Thumbs.db
